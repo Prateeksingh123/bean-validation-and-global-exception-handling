@@ -11,7 +11,7 @@ public class CourseServiceApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(CourseServiceApplication.class, args);
-		System.out.println("My first project");
+		System.out.println("Project on bean validation and exception handling");
 	}
 
 }
